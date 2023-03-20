@@ -1,0 +1,6 @@
+public class AdditionOfTwoNumber
+{
+int num1=24;
+int num2=50;
+System.out.println(num1+num2);
+}
